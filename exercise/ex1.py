@@ -2,7 +2,5 @@ print ("Hello World")
 print ("Hello Again")
 print ("I Like typing this.")
 print ("This is fun.")
-print ('Yah! Printing
-#
-#print ("I'd much rather you 'not'")
+print ('Yah! Printing')
 print ('I"said "do not touch this.')
